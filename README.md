@@ -49,8 +49,3 @@ To test the extension, simply browse the web as you normally would. The extensio
 ## Contributing
 Contributions to improve the Password Extractor or adapt it for different educational purposes are welcome. Please submit pull requests or issues through GitHub.
 
-## License
-Specify the license under which your project is made available.
-
-## Acknowledgements
-This project is a demonstration of browser extension capabilities and is intended for educational use. Remember to use it responsibly and ethically.
